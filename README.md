@@ -6,7 +6,7 @@
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joraregut/) 
 
- <div id="badges" align="center">
+ <div id="badges" align="justify">
    
 # **¡Hola, soy José Jorge Arévalo Gutiérrez! 👨‍💻**  
 🔍 **Científico de Datos | Machine Learning | SQL | Python | Automatización de Procesos**  
@@ -31,8 +31,5 @@ Soy un apasionado de la **ciencia de datos** con experiencia en **machine learni
     <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
- <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  </a>
-  
+  </a>  
 </div>
