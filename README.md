@@ -8,19 +8,31 @@
 
  <div id="badges" align="center">
    
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+# **¡Hola, soy José Jorge Arévalo Gutiérrez! 👨‍💻**  
+🔍 **Científico de Datos | Machine Learning | SQL | Python | Automatización de Procesos**  
 
-<!--
-**joraregut/joraregut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado de la **ciencia de datos** con experiencia en **machine learning, análisis exploratorio, limpieza de datos y automatización**. Me especializo en **modelos de clasificación y segmentación de clientes**, aplicando técnicas avanzadas como **XGBoost, Random Forest y K-Means** para generar insights accionables.  
 
-Here are some ideas to get you started:
+¡Soy un entusiasta de la **ciencia de datos**! Mi experiencia se centra en potenciar resultados a través de **machine learning**, **análisis exploratorio**, **limpieza de datos y automatización**. Soy un especialista en **modelos de clasificación y segmentación de clientes**, implementando técnicas robustas como **XGBoost**, **Random Forest** y **K-Means** para descubrir insights accionables que realmente marcan la diferencia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **¿Qué encontrarás aquí?**  
+- 📊 **Proyectos de machine learning** aplicados a problemas reales.  
+- 🔍 **Exploración y visualización de datos** con Seaborn y Matplotlib.  
+- ✨ **Optimización de modelos** con técnicas de balanceo de clases y ajuste de hiperparámetros.  
+
+💡 Busco **oportunidades** para aplicar inteligencia artificial en proyectos con impacto empresarial. ¡Conéctate conmigo!  
+📩 [Email](mailto:joraregut@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/joraregut/)  
+
+
+ ### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+  
+</div>
