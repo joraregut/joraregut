@@ -1,7 +1,15 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/joraregut/joraregut/blob/main/joraregut%20Linkedin%20Banner.png" width="800"/>
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joraregut/)
+
+<div id="badges" align="center">
+  
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joraregut/) 
+
+ <div id="badges" align="center">
+   
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+
 <!--
 **joraregut/joraregut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
